@@ -8,7 +8,7 @@ DeepLearning.ai contains five courses in theory and practice.<br>
 | Courses   |       Theory      | Practice                 |  Memo  |
 |:-----:|:------------------|:--------------------------------------|:--------------|
 |1|* AI, ML, DL <br> * Machine Learning|* Colab<br>* Linear Regression<br>* Basic of Pytorch<br>* Linear Regression with Pytorch| |
-|2|* Perceptron<br>* Neural Network<br>* Backpropagation Agorithm|* Perceptron<br>* MNIST MLP<br>* Assignment| |
+|2|* Perceptron<br>* Neural Network<br>* Backpropagation Algorithm|* Perceptron<br>* MNIST MLP<br>* Assignment| |
 |3|* Emergence of CNN<br>* Structure of CNN<br>* Examples of CNN model|* CIFAR Dataset<br>* MLP vs CNN<br>* VGG & ResNet| |
 |4|* Natural Language Processing(NLP)<br>* Word Embedding<br>* RNN|* Natural Language Processing(NLP)<br>* Sentiment Analysis| |
 |5|* GD Optimization<br>* Bias and Variance<br>* Regularization|* Optimization<br>* Regularization| |
