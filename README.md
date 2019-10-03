@@ -13,5 +13,14 @@ DeepLearning.ai contains five courses in theory and practice.<br>
 |4|* Natural Language Processing(NLP)<br>* Word Embedding<br>* RNN|* Natural Language Processing(NLP)<br>* Sentiment Analysis| |
 |5|* GD Optimization<br>* Bias and Variance<br>* Regularization|* Optimization<br>* Regularization| |
 
+## MNIST MLP 1
+<p><img src="https://github.com/jinkyukim-me/Summary-Seocho-Pytorch/blob/master/img/basic_MNIST_MLP.JPG" width="100%"></p>
+
+## MNIST MLP 2
+<p><img src="https://github.com/jinkyukim-me/Summary-Seocho-Pytorch/blob/master/img/MNIST_MLP_model1.JPG" width="100%"></p>
+
+## MNIST MLP 3
+<p><img src="https://github.com/jinkyukim-me/Summary-Seocho-Pytorch/blob/master/img/MNIST_MLP_model2.JPG" width="100%"></p>
+
 ## Next steps
 I need to focus my attention on the practical works.
