@@ -16,6 +16,11 @@ DeepLearning.ai contains five courses in theory and practice.<br>
 ## MNIST MLP 1
 <p><img src="https://github.com/jinkyukim-me/Summary-Seocho-Pytorch/blob/master/img/basic_MNIST_MLP.JPG" width="100%"></p>
 
+## MNIST MLP 2
+<p><img src="https://github.com/jinkyukim-me/Summary-Seocho-Pytorch/blob/master/img/MNIST_MLP_model1.JPG" width="100%"></p>
+
+## MNIST MLP 3
+<p><img src="https://github.com/jinkyukim-me/Summary-Seocho-Pytorch/blob/master/img/MNIST_MLP_model2.JPG" width="100%"></p>
 
 ## Next steps
 I need to focus my attention on the practical works.
