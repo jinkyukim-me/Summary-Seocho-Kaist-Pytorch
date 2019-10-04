@@ -19,6 +19,9 @@ DeepLearning.ai contains five courses in theory and practice.<br>
 ## MNIST MLP 2
 <p><img src="https://github.com/jinkyukim-me/Summary-Seocho-Pytorch/blob/master/img/MNIST_MLP_model1.JPG" width="90%"></p>
 
+### Vanishing Gradient - Sigmoid
+<p><img src="https://github.com/jinkyukim-me/Summary-Seocho-Pytorch/blob/master/img/vanishig%20gradient.png" width="90%"></p>
+
 ## MNIST MLP 3
 <p><img src="https://github.com/jinkyukim-me/Summary-Seocho-Pytorch/blob/master/img/MNIST_MLP_model2.JPG" width="90%"></p>
 
